@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shwet Singh</h1>
 
+<h2 align="center">  Software Developer | BTech in Electronics and Communication Engineering  Student at IIITDM Jabalpur.</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sss135790&label=Profile%20views&color=0e75b6&style=flat" alt="sss135790" /> </p>
 
 - 📫 How to reach me **shwetsingh32@gmail.com**
@@ -18,5 +20,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sss135790&show_icons=true&locale=en&layout=compact" alt="sss135790" /></p>
+
+
 
 
