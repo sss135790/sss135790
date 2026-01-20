@@ -1,7 +1,10 @@
-<h1 align="center" style="border-bottom: none;">
+<p align="center" style="font-size: 32px; font-weight: bold;">
   Hi 👋, I'm Shwet Singh
-</h1>
-<h2 align="center">ECE Student at IIITDM Jabalpur</h2>
+</p>
+<p align="center" style="font-size: 22px;">
+  ECE Student at IIITDM Jabalpur
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sss135790&label=Profile%20views&color=0e75b6&style=flat" alt="sss135790" /> </p>
