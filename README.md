@@ -1,7 +1,7 @@
-<p align="center" style="font-size: 32px; font-weight: bold;">
+<p align="center" style="font-size: 108px; font-weight: bold;">
   Hi 👋, I'm Shwet Singh
 </p>
-<p align="center" style="font-size: 22px;">
+<p align="center" style="font-size: 50px;">
   ECE Student at IIITDM Jabalpur
 </p>
 
