@@ -7,7 +7,7 @@
 - 🎓 B.Tech - Electronics and Communication Engineering at IIITDM Jabalpur
 - 📫 How to reach me: **shwetsingh32@gmail.com**
 
-# 🤝 Connect with me
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shwetsingh116/">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-# 💻 Tech Stack
+<h1 align="center">💻 Tech Stack</h1>
 
 ## Programming Languages
 
@@ -49,16 +49,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap" />
 </p>
 
-## Backend Development
+## Backend and Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-## Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,firebase,dynamodb" />
 </p>
 
 ## Cloud & DevOps
