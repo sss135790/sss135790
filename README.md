@@ -7,34 +7,6 @@
 - 🎓 B.Tech - Electronics and Communication Engineering at IIITDM Jabalpur
 - 📫 How to reach me: **shwetsingh32@gmail.com**
 
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shwetsingh116/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/5hwet5ingh/">
-    <img src="https://cdn.simpleicons.org/leetcode" height="40" />
-  </a>
-
-  <a href="https://instagram.com/_.shwet._6">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/shwetsijn0k">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
-  </a>
-
-  <a href="https://codeforces.com/profile/5hwet5ingh">
-    <img src="https://cdn.simpleicons.org/codeforces" height="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/5hwet5ingh">
-    <img src="https://cdn.simpleicons.org/codechef" height="40" />
-  </a>
-</p>
-
 <h1 align="center">💻 Tech Stack</h1>
 
 ## Programming Languages
@@ -67,3 +39,31 @@
 - 💡 Specialist on Codeforces
 - ⭐ 3-Star on CodeChef
 - 🧠 Solved 1500+ coding problems across platforms
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shwetsingh116/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/5hwet5ingh/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" />
+  </a>
+
+  <a href="https://instagram.com/_.shwet._6">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shwetsijn0k">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
+  </a>
+
+  <a href="https://codeforces.com/profile/5hwet5ingh">
+    <img src="https://cdn.simpleicons.org/codeforces" height="40" />
+  </a>
+
+  <a href="https://www.codechef.com/users/5hwet5ingh">
+    <img src="https://cdn.simpleicons.org/codechef" height="40" />
+  </a>
+</p>
