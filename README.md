@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sss135790&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 💻 Software Development Engineer Intern at Amazon
 - 🎓 B.Tech - Electronics and Communication Engineering at IIITDM Jabalpur
-- 🌱 Currently exploring scalable backend systems, cloud technologies, and full-stack development
 - 📫 How to reach me: **shwetsingh32@gmail.com**
 
 ## Connect with me
@@ -49,30 +47,13 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,dynamodb" />
 </p>
 
-## Currently Working On
-
-- 🚀 Scalable backend systems and distributed services
-- ⚡ Full-stack MERN & Next.js applications
-- ☁️ Cloud deployments with AWS and Docker
-- 📈 Data Structures & Algorithms
 
 ## Achievements
 
-- ⭐ 3-Star on CodeChef
-- 💡 Specialist on Codeforces
-- 🧠 Solved 1500+ coding problems across platforms
 - 🏆 Solved 800+ DSA problems on LeetCode with a peak rating of 1931
+- 💡 Specialist on Codeforces
+- ⭐ 3-Star on CodeChef
+- 🧠 Solved 1500+ coding problems across platforms
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sss135790&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sss135790&theme=tokyonight" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss135790&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
