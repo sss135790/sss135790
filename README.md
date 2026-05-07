@@ -35,18 +35,37 @@
   </a>
 </p>
 
-## Languages and Tools
+# 💻 Tech Stack
+
+## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,redux,docker,git,github,aws,tailwind,bootstrap,vercel,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+## Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+## Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ## Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,dynamodb" />
 </p>
 
+## Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,vscode" />
+</p>
 
 ## Achievements
 
@@ -54,6 +73,4 @@
 - 💡 Specialist on Codeforces
 - ⭐ 3-Star on CodeChef
 - 🧠 Solved 1500+ coding problems across platforms
-
-
 
